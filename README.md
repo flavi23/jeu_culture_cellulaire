@@ -1,3 +1,3 @@
 # website
 
-Game: [PLAY](www/index.html)
+Game: [PLAY](www/game/index.html)
