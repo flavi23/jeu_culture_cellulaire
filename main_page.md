@@ -3,7 +3,7 @@
 ### Jeu de vulgarisation scientifique conçu pendant un livestream de 27h organisé par l'association 2500 voix le jeudi 15 février 2024. 
 ### Evénement de sensibilisation à l'occasion de la journée internationale des cancers de l'enfant.
 
-[2500voixLogo](2500voix_logo.png)
+![2500voixLogo](logo2500voix.png)
 
 Découvrez les différentes étapes de l'analyse d'un échantillon de biopsie d'un patient, depuis la culture cellulaire jusqu'au test de médicaments, avec ces mini-jeux ludiques et pédagogiques : 
 
